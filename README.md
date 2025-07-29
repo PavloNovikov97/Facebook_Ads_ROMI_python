@@ -37,7 +37,7 @@ The following tasks were completed using Python (Pandas, Seaborn, Matplotlib) in
 ## Code
 
 All logic is implemented in this Jupyter notebook:  
-[Facebook Ads ROMI Analysis.ipynb](./Facebook_Ads_ROMI.ipynb)
+[Facebook Ads ROMI_Analysis.ipynb](./Facebook_Ads_ROMI_Analysis.ipynb)
 
 Key techniques include:
 
