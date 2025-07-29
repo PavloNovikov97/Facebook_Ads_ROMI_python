@@ -7,7 +7,7 @@ This project analyzes Facebook ad campaign data to uncover insights about daily 
 ## Data & Schema
 
 **Source file:**
-- `facebook_ads_data.csv` – Daily metrics from multiple Facebook advertising campaigns in 2021–2022.
+- `facebook_ads_data.csv` – Daily metrics from multiple Facebook advertising campaigns in 2020–2022.
 
 **Challenges:**
 - Data needed to be filtered to focus on the 2021 calendar year.
@@ -15,7 +15,7 @@ This project analyzes Facebook ad campaign data to uncover insights about daily 
 
 ### Sample Ad Data (Partial View)
 <p align="center">
-  <img src="./images/sample_survey_data.png" alt="Sample Survey Data" width="600" />
+  <img src="./images/sample_ad_data.png" alt="Sample Ad Data" width="600" />
 </p>
 
 ---
@@ -57,7 +57,7 @@ Key techniques include:
 
 ### ROMI by campaign
 <p align="center">
-  <img src="./images/romi_by_camoaign.png" alt="ROMI by campaign" width="500" />
+  <img src="./images/romi_by_campaign.png" alt="ROMI by campaign" width="500" />
 </p>
 
 ### ROMI distribution histogram
