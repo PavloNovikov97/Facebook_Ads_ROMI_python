@@ -77,4 +77,5 @@ Key techniques include:
 This project demonstrates the use of Python for real-world marketing data analysis. It highlights techniques in grouping, filtering, rolling averages, and exploratory visualization — all used to evaluate how advertising spend translates into value.
 
 A key focus was on **ROMI (Return on Marketing Investment)**, calculated as: ROMI = Total Value / Total Spend
+
 By analyzing daily and campaign-level performance, this project provides actionable insights into ad efficiency and marketing return.
